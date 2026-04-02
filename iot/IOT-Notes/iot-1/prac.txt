@@ -1,0 +1,32 @@
+What's IOT?
+
+IOT stands for internet Of things
+
+which refers to machines are programmed in a way by which they interact with they
+modern world and help humans automate tasks
+
+IOT Components
+- Micro Controller
+- Actuator
+- Sensors
+- Networking 
+
+Architecture of IOT
+
+Perception Layer -> Networking Layer -> Application Layer
+
+Perception Layer collect data from the offline using Sensors
+
+
+Create (Sensors) -> Communicate (Network) -> Aggregate (Integration / Management)
+-> Analyze (Processing) -> Act 
+
+C.C.A.A.A or Two Cs and Three As
+
+Create - use sensors to create data
+Communicate - send those data to the microcontroller
+Aggregate - store and organize those data
+Analyze - analyze those data via computer program
+Act - act upon those data
+
+

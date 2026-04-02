@@ -1,0 +1,18 @@
+# Scalar and Vector Sensor
+
+**Scalar Sensor:**
+Scalar Sensors are those types of sensors that 
+produces signals proportional to the quantity 
+being measured
+
+Example: Temperature, Weight
+
+**Vector Sensor:**
+Vector Sensor are those types of sensors that
+produces signals proportional to the quantity 
+and direction
+
+Example: Compass, Acceleration, velocity
+
+**Hysteresis Error**
+Error that caused by the sensors output value 
